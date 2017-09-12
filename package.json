@@ -1,5 +1,5 @@
 {
-  "name": "starwars-express",
+  "name": "starwars",
   "version": "1.0.0",
   "description": "* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.",
   "main": "server.js",
@@ -13,5 +13,13 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanineerica/Star-Wars-Express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeanineerica/Star-Wars-Express/issues"
+  },
+  "homepage": "https://github.com/jeanineerica/Star-Wars-Express#readme"
 }
